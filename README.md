@@ -1,4 +1,4 @@
-# Melvin Immanuel
+# Melvin Immanuel Gregory
 
 **Data Science | Machine Learning | Generative AI**
 
